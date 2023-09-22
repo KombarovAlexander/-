@@ -30,5 +30,5 @@
 ## Модуль 5 Основы автоматизации тестирования
 
 - Node.js
-- Jcyjds JavaScript
+- Основы JavaScript
 - Библиотека Puppeteer
